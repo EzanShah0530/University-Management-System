@@ -61,7 +61,7 @@ public class pannel extends WindowAdapter {
 	               public void actionPerformed(ActionEvent e) {       
 	                	  pnl.setVisible(false);
                            try {      
-                               universitymanagement.faculty nw = new universitymanagement.faculty();
+                               faculty nw = new faculty();
                            } catch (IOException ex) {
                               
                            }

@@ -1,4 +1,4 @@
-package universitymanagement;
+package src.universitymanagement;
 import src.universitymanagement.pannel;
 
 import java.awt.Font;
