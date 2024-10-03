@@ -1,0 +1,18 @@
+Payment/Deposit Slip
+Student Details........
+
+Student Id   :34124
+Student Name    :a
+Student Gender   :Male
+Student mail    :dafdf@gmail.com
+Student Phone    :12314
+Stident CGPA  :3
+Student Credit    :20
+Course Details........
+MAT 104.....(Estimated cost max. 25000 taka)
+CSE 106.....(Estimated cost max. 25000 taka)
+CSE 206.....(Estimated cost max. 25000 taka)
+Enter Amount (Manually) :
+Adccepted Bank: 
+Bangladesh bank(AC NO:12456)
+DBBL Bankbank(AC NO:12456)
